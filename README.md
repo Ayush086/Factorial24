@@ -46,7 +46,6 @@ This repository contains two main AI applications:
 │   ├── rag.py                        # Main Streamlit chatbot application
 │   ├── test.ipynb                  # RAG chatbot development notebook
 ├── agent/
-│   ├── build.ipynb               # Resume ranking system development
 │   ├── test.ipynb                 # Resume ranking testing and evaluation
 │   └── data/                        # Sample resume PDFs
 │       ├── resume-01.pdf
